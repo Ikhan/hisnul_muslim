@@ -2,7 +2,7 @@
 
 A Chrome extension featuring authentic Islamic supplications (duas) from Hisnul Muslim (Fortress of the Muslim).
 
-![Daily Duas](promo-tile-440x280.png)
+![Daily Duas](image.png)
 
 ## Features
 
