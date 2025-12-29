@@ -58,7 +58,7 @@ export function SettingsView() {
             </div>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Ikhan/hisnul_muslim"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-between p-4 rounded-xl
