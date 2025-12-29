@@ -4,8 +4,7 @@ node_modules/
 # Build output
 dist/
 
-# Generated images for store listing
-promo-tile-440x280.png
+# Generated images (keep promo tile for README)
 icon-512.png
 
 # HTML files used for generating assets
